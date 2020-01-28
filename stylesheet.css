@@ -1,0 +1,35 @@
+header{
+                    height: 90px;
+                    border: solid
+                    }
+            nav{
+                height: 50px;
+                border: solid
+                }
+            section{
+                    height: 700px;
+                    width: 400px;
+                    border: solid
+                    }
+            aside{
+                    height: 708px;
+                    width: 1496px;
+                    border: solid;
+                    float: right;
+                    margin-top: -710px
+            }
+            footer{
+                    height: 60px;
+                    border: solid
+                    }
+            table,tr,th{
+                text-align: center;
+                column-width: 900px;
+                text-align: center;
+            }
+            button{
+                background-color: cornsilk
+            }
+            nav{
+                position: sticky
+            }
