@@ -8,8 +8,10 @@ nav{
 }
 section{
     height: 700px;
-    width: 597px;
+    width: 580px;
     border: solid;
+    background-image: url(Suitcase1.jpeg);
+    background-repeat: no-repeat
 }
 aside{
     height: 708px;
@@ -25,7 +27,6 @@ footer{
 table,tr,th{
     text-align: center;
     column-width: 900px;
-    text-align: center;
 }
 button{
     background-color: cornsilk;
@@ -33,4 +34,13 @@ button{
 }
 nav{
     position: sticky
+}
+.shift{
+    margin-top: 90px;
+}
+.section-bg
+{
+    background-image: url(Desert.jpeg); 
+    background-repeat: no-repeat; 
+    background-size: 600px 700px
 }
