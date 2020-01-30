@@ -1,8 +1,9 @@
 h1{
-    text-align: center
+    text-align: center;
+    color: brown
 }
 header{
-    height: 90px;
+    height: 140px;
     border: solid
 }
 nav{
@@ -39,13 +40,16 @@ button{
 nav{
     position: sticky
 }
+img{
+    border: solid
+}
 .shift{
     margin-top: 90px;
 }
 .header-bg{
     background-image: url(IncredibleIndia.jpeg);
     background-repeat: no-repeat;
-    background-size: cover
+    background-size:  1900px 160px;
 }
 .nav-bg{
     background-color: lightskyblue;
@@ -53,10 +57,11 @@ nav{
 .section-bg{
     background-image: url(Desert.jpeg); 
     background-repeat: no-repeat; 
-    background-size: 600px 700px
+    background-size: cover   
 }
+/*600px 700px*/
 .aside-bg{
     background-image: url(PaperPlane.jpeg); 
     background-repeat: no-repeat; 
-    background-size: 1400px 750px
+    background-size: cover
 }
